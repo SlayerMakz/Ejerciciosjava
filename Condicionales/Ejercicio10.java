@@ -1,6 +1,9 @@
 package Condicionales;
 import javax.swing.JOptionPane;
 public class Ejercicio10 {
+    /*
+        Construir un programa que simule el funcionamiento de una calculadora que puede realizar las cuatro operaciones aritméticas básicas (suma, resta, producto, y division) con valores numéricos enteros. El usuario debe especificiar la operación con el primer carácter del primer parámetro de la línea de comandos: S o s para la suma, R o r para la resta, P o p, M o m para el producto y D o d para la división. 
+     */
     public static void main(String[] args) {
         int num1, num2, resultado; 
         char operacion;

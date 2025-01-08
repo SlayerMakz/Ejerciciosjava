@@ -1,3 +1,4 @@
+package Lecciones;  
 import java.util.Scanner;
 public class Ejercicio_1 {
     //HACER UN PROGRAMA QUE CALCULE E IMPRIMA LA SUMA DE TRES CALIFICACIONES.

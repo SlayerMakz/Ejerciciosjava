@@ -15,7 +15,6 @@ public class Ejercicio1{
             JOptionPane.showMessageDialog(null, "El numero "+numero+" elevado al cuadrado es: "+resultado);
             numero = Integer.parseInt(JOptionPane.showInputDialog("Ingresa un numero: "));
             cuadrado = Integer.parseInt(JOptionPane.showInputDialog("Ingresa un numero al que se va a elevar: "));
-            System.out.println("Hola desde ambas versiones");
         }
     }
 }
